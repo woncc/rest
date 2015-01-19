@@ -1,0 +1,7 @@
+export ZSH=$HOME/.oh-my-zsh
+ZSH_THEME="clean"
+DISABLE_AUTO_UPDATE="true"
+HIST_STAMPS="yyyy-mm-dd"
+plugins=(debian encode64 git gitfast git-extras npm redis-cli pip sudo supervisor)
+export PATH="/opt/http/nginx/sbin:/opt/http/bin:/opt/local/sbin:/opt/local/bin:/usr/local/bin:/usr/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin"
+source $ZSH/oh-my-zsh.sh

@@ -1,0 +1,7 @@
+NO_START=0
+DROPBEAR_PORT=8066
+DROPBEAR_EXTRA_ARGS=
+DROPBEAR_BANNER=""
+#DROPBEAR_RSAKEY="/etc/dropbear/dropbear_rsa_host_key"
+#DROPBEAR_DSSKEY="/etc/dropbear/dropbear_dss_host_key"
+DROPBEAR_RECEIVE_WINDOW=65536
